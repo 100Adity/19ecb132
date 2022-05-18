@@ -6,7 +6,7 @@ Aditya
 [doublelinkedlist.c](doublelinkedlist.c)   
 [elementinanarray.c](elementinanarray.c)   
 [functions.c](functions.c)   
-[heightbinary.c](heightbinary.c)     
+[heightbinarytree.c](heightbinarytree.c)     
 [leapyear.c](leapyear.c)     
 [lineardatastructures.c](lineardatastructures.c)    
 [logicalopr.c](logicalopr.c)     
