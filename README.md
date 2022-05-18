@@ -4,7 +4,7 @@ Aditya
 [bitwise.c](bitwise.c)   
 [bitwiseor.c](bitwiseor.c)   
 [doublelinkedlist.c](doublelinkedlist.c)   
-[elementaryinanarray.c](elementaryinanarray.c)   
+[elementinanarray.c](elementinanarray.c)   
 [functions.c](functions.c)   
 [heightbinary.c](heightbinary.c)     
 [leapyear.c](leapyear.c)     
