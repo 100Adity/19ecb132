@@ -15,5 +15,5 @@ Aditya
 [singlelinkedlist.c](singlelinkedlist.c)    
 [workingofkeywordlong.c](workingofkeywordlong.c)     
 [pointers.c](pointers.c)   
-[Reverselinkedlist](Reverselinkedlist.c)
-[middlelinkedlist.c](middlelinkedlist.c)
+[Reverselinkedlist](Reverselinkedlist.c)     
+[middlelinkedlist.c](middlelinkedlist.c)     
