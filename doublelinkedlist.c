@@ -242,7 +242,8 @@ void search()
     }          
 }  
 
-
+/*
+  output
 *********Main Menu*********
 
 Choose one option from the following list ...
@@ -263,3 +264,4 @@ Enter your choice?
 Enter Item value2
 
 Node inserted
+/*
